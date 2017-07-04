@@ -1,0 +1,4 @@
+numpy==1.13.0
+opencv-python==3.2.0.7
+pyTelegramBotAPI==3.0.1
+winshell==0.6
